@@ -1,4 +1,5 @@
 # NodeJS_FS_Backend
+## project initialization
 ### Technologies used;
 - NodeJS
 - Express JS (Server/Listener/Router) design pattern
@@ -58,3 +59,7 @@ npm test
 
 
 
+## Server/Listener/Router design pattern
+- Server - server.js using [htt, dotenv]
+- Request Listener - app.js using [express]
+- Router - router.js using [express]
