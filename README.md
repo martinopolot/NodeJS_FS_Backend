@@ -1,4 +1,5 @@
-* Technologies used;
+# NodeJS_FS_Backend
+### Technologies used;
 - NodeJS
 - Express JS (Server/Listener/Router) design pattern
 - Jest (Unit testing)
@@ -9,8 +10,7 @@
 - Jetkings
 - MongoDB
 
-
-* Requirements:
+### Requirements:
 - Online Bookstore
 - CRUD Books
 - normalize Author information
@@ -19,14 +19,14 @@
 - create Frontend to register/login/homepage
 - create Frontend to post/get/update/delete books
 
-* Software needed
+## Software needed
 - Nodejs (https://nodejs.org/en/latest)
 - Docker Desktop (https://docker.io)
 - Postman (https://postman.com)
 - MongoDB Compass (https://mongodb.com/products/compass)
 - Github (https://github.com/)
 
-* Requirements to complete the project:
+### Requirements to complete the project:
 - Start with registration/login/homepage (backend)
 - Start the registration/login/homepage (frontend)
 - Complete the backend with Books CRUD
@@ -35,14 +35,12 @@
 - Setup frontend and backend to run Jenkins
 - Deploy both frontend and backend to Docker
 
-* install
+### install
 - git init
 - npm init
 - npm i dotenv
 - npm i express 
 - npm i -D jest
-
-# NodeJS_FS_Backend
 
 # To run the backend
 
