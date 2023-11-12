@@ -60,7 +60,9 @@ npm test
 
 
 ## Server/Listener/Router design pattern
-- Server - server.js using [htt, dotenv]
+- Server - server.js using [http, dotenv]
 - Request Listener - app.js using [express]
 - Router - router.js using [express]
 
+## docker install
+- docker run -d --name NodeJS_FS_MongoDB -p 27017:27017 mongo:latest
